@@ -2,6 +2,8 @@
 
 This fork is to make latest releases of https://github.com/XamFormsExtended/Xfx.Controls since it has been already archived without a release with the most recent updates.
 
+https://www.nuget.org/packages/CarbonSft.Xfx.Controls/1.2.2
+
 *Description*
 Xfx Controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
 
