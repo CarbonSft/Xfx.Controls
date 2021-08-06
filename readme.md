@@ -1,4 +1,6 @@
-# Xamarin Forms Extended Controls
+# Xamarin Forms Extended Controls 
+
+This fork is to make latest releases of https://github.com/XamFormsExtended/Xfx.Controls since it has been already archived without a release with the most recent updates.
 
 *Description*
 Xfx Controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
